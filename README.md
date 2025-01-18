@@ -20,7 +20,7 @@
  
 <div align="center">
   <p>
-Saya seorang pemula fullstack developer. Mempelajari frontend, backend, dan berkomitmen pada solusi perangkat lunak unggul.
+Saya seorang full stack developer pemula yang sedang mengembangkan kemampuan di frontend dan backend, saya berfokus pada pembuatan solusi perangkat lunak yang efektif.
 </p>
 
 <h5> TECH: </h5>
