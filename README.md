@@ -35,7 +35,7 @@ Saya seorang pemula fullstack developer. Mempelajari frontend, backend, dan berk
   <img alt="reactjs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
 <br/>
 <p>
-saya juga tertarik pada artificial intelligence, saat ini saya sedang mempelajari machine learning selama kurang lebih 1 tahun. 
+saya juga tertarik dan sedang mempelajari terkait dengan artificial intelligence.
 <br/>
 <h5> TECH: </h5>
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
