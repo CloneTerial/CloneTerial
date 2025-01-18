@@ -13,13 +13,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="LinkedIn" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tobangado155" target="_blank" style='margin-right:10px'>
+  <a href="https://www.instagram.com/xy.c4" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/6283879762937" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="22px" width="22px" />
-  </a>
  
 <div align="center">
   <p>
