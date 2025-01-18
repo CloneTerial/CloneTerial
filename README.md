@@ -23,7 +23,7 @@
  
 <div align="center">
   <p>
-Saya seorang fullstack developer berpengalaman 5+ tahun. Menguasai frontend, backend, dan berkomitmen pada solusi perangkat lunak unggul.
+Saya seorang pemula fullstack developer. Mempelajari frontend, backend, dan berkomitmen pada solusi perangkat lunak unggul.
 </p>
 
 <h5> TECH: </h5>
